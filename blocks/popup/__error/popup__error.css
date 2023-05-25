@@ -1,0 +1,14 @@
+.popup__error {
+  /* visibility: hidden; */
+  display: inline-block;
+  color: #FF0000;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14.52px;
+  min-height: 29.04px;
+}
+
+.popup__error:last-of-type {
+  margin-bottom: 10px;
+}
+
