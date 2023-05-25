@@ -15,4 +15,4 @@
 * добавить функционал остальным кнопкам сайта
 * реализовать лайки и их счетчик
 ## Ссылка на GitHub Pages:
-* https://filippp0.github.io/mesto/
+* https://filippp0.github.io/mestoProceduralProg/
